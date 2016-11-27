@@ -1,0 +1,10 @@
+#Ignorando arquivos inúteis para o projeto
+
+#Ignorando arquivo .txt
+.txt
+*.txt
+
+
+#Ignorando arquivos doc
+.doc
+*.doc
